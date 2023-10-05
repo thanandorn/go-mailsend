@@ -1,4 +1,4 @@
-module git.epo.org/cloud-native-engineering/go-mailsend
+module github.com/thanandorn/go-mailsend
 
 go 1.21.0
 
